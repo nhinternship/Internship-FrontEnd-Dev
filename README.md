@@ -53,119 +53,119 @@ Interns can contribute by:<ul><li>Implementing small, well-defined features or c
 <h1 align="center">Frontend Web Dev Projects 🚀</h1>
 
 <p align="center">
-  This table outlines 20 simple frontend web development projects, grouped for team assignments or individual practice during the internship.
+  This table outlines 20 simple frontend web development projects, grouped for team assignments or individual practice during the internship.
 </p>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="15%">Group</th>
-      <th align="left" width="60%">Project Name (Simple Frontend Concept)</th>
-      <th align="left" width="25%">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>Group 1</b></td>
-      <td><b>Interactive Digital Clock:</b> Displays current time and updates every second.</td>
-      <td>HTML, CSS, JavaScript (<code>Date()</code> object)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 2</b></td>
-      <td><b>Basic To-Do List App:</b> Allows adding, deleting, and marking tasks as complete (store data in browser <b>localStorage</b>).</td>
-      <td>HTML, CSS, JavaScript (DOM Manipulation, localStorage)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 3</b></td>
-      <td><b>Simple Calculator:</b> Performs basic arithmetic operations (+, -, *, /).</td>
-      <td>HTML, CSS, JavaScript (Event Listeners)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 4</b></td>
-      <td><b>Color Flipper:</b> Changes the background color of the page on button click to a random hex or RGB value.</td>
-      <td>HTML, CSS, JavaScript (Random number generation)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 5</b></td>
-      <td><b>Simple Landing Page with Responsive Navigation Bar:</b> Includes a sticky header and smooth scrolling sections.</td>
-      <td>HTML, CSS (Flexbox/Grid, Media Queries)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 6</b></td>
-      <td><b>Quiz App:</b> Presents 3-5 multiple-choice questions and scores the user at the end.</td>
-      <td>HTML, CSS, JavaScript (Arrays, Conditionals)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 7</b></td>
-      <td><b>Modal/Pop-up Window:</b> A button click reveals a hidden modal that can be closed via an "X" button or overlay click.</td>
-      <td>HTML, CSS (CSS Transitions), JavaScript (Toggle classes)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 8</b></td>
-      <td><b>Image Carousel/Slider:</b> Displays a series of images that cycle automatically or via navigation arrows.</td>
-      <td>HTML, CSS, JavaScript (Timers, Index tracking)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 9</b></td>
-      <td><b>Temperature Converter:</b> Converts Celsius to Fahrenheit and vice-versa.</td>
-      <td>HTML, CSS, JavaScript (Form input handling, Math)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 10</b></td>
-      <td><b>Simple Countdown Timer:</b> Counts down from a set time (e.g., 5 minutes) to zero.</td>
-      <td>HTML, CSS, JavaScript (<code>setInterval()</code>)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 11</b></td>
-      <td><b>Expanding Cards Gallery:</b> A row of images where clicking one expands it while the others shrink.</td>
-      <td>HTML, CSS (Flexbox), JavaScript (Class toggling)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 12</b></td>
-      <td><b>Form Validator:</b> A simple sign-up form that checks if fields are empty, emails are valid, and passwords match.</td>
-      <td>HTML, CSS, JavaScript (Regex validation)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 13</b></td>
-      <td><b>Custom Video Player:</b> HTML <code>&lt;video&gt;</code> element styled with custom play/pause, volume, and progress bar controls.</td>
-      <td>HTML, CSS, JavaScript (Media API)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 14</b></td>
-      <td><b>Password Generator:</b> Generates a random password based on user-selected criteria (length, inclusion of symbols/numbers).</td>
-      <td>HTML, CSS, JavaScript (String manipulation, Random methods)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 15</b></td>
-      <td><b>Expense Tracker UI:</b> A non-functional UI that displays income and expense history (focus on layout and styling).</td>
-      <td>HTML, CSS (Grid layout, component styling)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 16</b></td>
-      <td><b>Animated Menu Toggle (Hamburger Icon):</b> Transforms a three-line hamburger icon into an "X" when clicked.</td>
-      <td>HTML, CSS (CSS Transitions/Transforms), JavaScript (Event Listener)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 17</b></td>
-      <td><b>Tip Calculator:</b> Calculates the tip amount and total bill per person based on bill amount, tip percentage, and number of people.</td>
-      <td>HTML, CSS, JavaScript (Basic arithmetic)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 18</b></td>
-      <td><b>Local Weather App UI:</b> A static UI template for displaying weather data (focus on icons, layout, and responsiveness).</td>
-      <td>HTML, CSS (Flexbox/Grid, Icons)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 19</b></td>
-      <td><b>Drawing App (Canvas API):</b> Allows drawing simple lines/shapes on a canvas element using mouse events.</td>
-      <td>HTML, CSS, JavaScript (<code>&lt;canvas&gt;</code> API, Mouse Events)</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Group 20</b></td>
-      <td><b>Sticky Footer:</b> A basic layout that ensures the footer always stays at the bottom of the viewport, even on pages with minimal content.</td>
-      <td>HTML, CSS (Flexbox or viewport units)</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th align="center" width="15%">Group</th>
+      <th align="left" width="60%">Project Name (Real-World Concept)</th>
+      <th align="left" width="25%">Core Technologies/Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Group 1</b></td>
+      <td><b>Freelancer Portfolio Builder</b> – Users input details and it generates a downloadable portfolio webpage.</td>
+      <td>HTML, CSS, JavaScript (DOM, templating, file download)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 2</b></td>
+      <td><b>Job Board (Mini Version)</b> – Display jobs (hardcoded JSON or API) with filters for role, salary, location.</td>
+      <td>HTML, CSS, JavaScript (Filtering, data rendering)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 3</b></td>
+      <td><b>Restaurant Online Menu + Order Tracker</b> – Menu page with a cart and simulated order status tracking.</td>
+      <td>HTML, CSS, JavaScript (State management, timers)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 4</b></td>
+      <td><b>Event Ticket Booking</b> – Choose an event, pick a seat (interactive selector), and generate a ticket.</td>
+      <td>HTML, CSS, JavaScript (Interactive UI, data structure)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 5</b></td>
+      <td><b>Student Grade Calculator & Report Card Generator</b> – Enter subjects + scores, calculate GPA, display report.</td>
+      <td>HTML, CSS, JavaScript (Form handling, math, layout)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 6</b></td>
+      <td><b>Expense & Budget Tracker (Visualized)</b> – Track income/expense and visualize data in pie/bar charts.</td>
+      <td>HTML, CSS, JavaScript, <b>Chart.js</b> (or similar library)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 7</b></td>
+      <td><b>Crowdfunding Donation Page</b> – A campaign page where users "donate" (mock payments) and a progress bar fills up.</td>
+      <td>HTML, CSS (Transitions), JavaScript (Progress bar logic)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 8</b></td>
+      <td><b>Travel Itinerary Planner</b> – Add destinations, dates, activities, and generate a printable itinerary.</td>
+      <td>HTML, CSS, JavaScript (User input, data storage, print styling)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 9</b></td>
+      <td><b>Property Listing Website</b> – Like a mini real estate site: list houses with filters for price, size, location.</td>
+      <td>HTML, CSS (Grid/Flexbox), JavaScript (Filtering, card display)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 10</b></td>
+      <td><b>Weather Dashboard</b> – Pull real-time data from a <b>Weather API</b> and show temperature, forecast, etc.</td>
+      <td>HTML, CSS, JavaScript (<b>API Fetch</b>, data parsing)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 11</b></td>
+      <td><b>Personal Finance Goal Tracker</b> – Set financial goals (e.g., save $1000 in 3 months) and track progress visually.</td>
+      <td>HTML, CSS, JavaScript (User input, progress visualization)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 12</b></td>
+      <td><b>Event Countdown Timer</b> – Input an event date and show the countdown in days, hours, and minutes.</td>
+      <td>HTML, CSS, JavaScript (Date object, <code>setInterval()</code>)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 13</b></td>
+      <td><b>Recipe Finder</b> – Use a <b>Recipe API</b> or JSON, filter by ingredients, and show recipe steps.</td>
+      <td>HTML, CSS, JavaScript (<b>API Fetch</b>, advanced filtering)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 14</b></td>
+      <td><b>Resume Builder</b> – Input form generates a styled CV in HTML/CSS with an option to download as a PDF.</td>
+      <td>HTML, CSS (Print styling), JavaScript (Templating, form handling)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 15</b></td>
+      <td><b>Digital Business Card Generator</b> – Fill in a form to generate a shareable digital card and/or QR code.</td>
+      <td>HTML, CSS, JavaScript (Form handling, <b>QR Code library</b>)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 16</b></td>
+      <td><b>Fitness & Workout Logger</b> – Log workouts, reps, and calories, and visualize progress.</td>
+      <td>HTML, CSS, JavaScript (Data storage/retrieval, basic charts)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 17</b></td>
+      <td><b>Flash Sale / E-commerce Product Page</b> – A modern product listing with a countdown timer for sales.</td>
+      <td>HTML, CSS (Modern layout), JavaScript (Countdown timer logic)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 18</b></td>
+      <td><b>Blog CMS (Static)</b> – Allows adding, editing, and deleting blog posts stored in <b>localStorage</b>.</td>
+      <td>HTML, CSS, JavaScript (<b>CRUD</b> operations, localStorage)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 19</b></td>
+      <td><b>Crypto Price Tracker</b> – Show live crypto prices using a free <b>Crypto API</b> and update dynamically.</td>
+      <td>HTML, CSS, JavaScript (<b>API Fetch</b>, dynamic updates)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Group 20</b></td>
+      <td><b>Language Learning Flashcards</b> – Display flashcards with quiz mode and a progress tracker.</td>
+      <td>HTML, CSS, JavaScript (Arrays, state tracking, progress display)</td>
+    </tr>
+  </tbody>
 </table>
 
 <h2 align=center>Project Mentors⭐</h2> 
